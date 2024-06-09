@@ -1,0 +1,40 @@
+.home {
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: #333;
+  color: #fff;
+}
+
+.header h1 {
+  margin: 0;
+}
+
+.add-video-link {
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  margin: auto 0;
+}
+
+.add-video-link:hover {
+  text-decoration: underline;
+}
+
+.video-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  padding: 20px;
+}
+
+.footer {
+  padding: 20px;
+  background-color: #333;
+  color: #fff;
+}
